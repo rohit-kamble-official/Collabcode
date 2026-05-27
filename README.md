@@ -271,7 +271,7 @@ Server → Client:
 - **Frontend**: React 19, Vite, Tailwind CSS v4, Monaco Editor, Yjs, Socket.IO Client, React Router, React Hot Toast, React Icons
 - **Backend**: Node.js, Express 4, Socket.IO, Yjs (y-socket.io), JWT, bcryptjs, Helmet, Rate Limiting, CORS
 - **Database**: MongoDB Atlas with Mongoose ODM
-- **Deployment**: Docker, Docker Compose, Nginx, PM2, AWS EC2
+- **Deployment**: Docker, Docker Compose, AWS EC2 , Nginx, PM2 
 
 ---
 
